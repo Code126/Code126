@@ -32,4 +32,4 @@ Hola! Mi nombre es Juan Manuel Toro, pero me puedes llamar Code :D Soy de Colomb
 OmegaNinja | Riku      |OrixUSH
 -----------|-----------|-----------
 [Support Server](https://discord.com/invite/uQxTeFV) - [Invite](https://discord.com/api/oauth2/authorize?client_id=725772192159105752&permissions=8&scope=bot)|[Support Server](https://discord.gg/hCpNyrx6Ex) - [Invite](https://discord.com/api/oauth2/authorize?client_id=844630271097045043&permissions=8&scope=bot)|[Support Server](https://discord.gg/dk93wzehF9) - [Invite](https://fxz-org.com/orix-mejor-bot-discord/)
-
+<!--START_SECTION:activity-->
