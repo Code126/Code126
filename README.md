@@ -33,4 +33,3 @@ OmegaNinja | Riku
 -----------|-----------
 [Support Server](https://discord.com/invite/uQxTeFV) - [Invite](https://discord.com/api/oauth2/authorize?client_id=725772192159105752&permissions=8&scope=bot)|[Support Server](https://discord.gg/hCpNyrx6Ex) - [Invite](https://discord.com/api/oauth2/authorize?client_id=844630271097045043&permissions=8&scope=bot)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Code126&theme=jolly&show_icons=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code126">
