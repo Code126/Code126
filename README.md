@@ -15,4 +15,6 @@ Hola! Mi nombre es Juan Manuel Toro, pero me puedes llamar Code :D Soy de Colomb
 [<img src="./assets/JavaScript.jpg" alt="JS-LOGO" height="45" wight="45" />](https://www.javascript.com/)
 [<img src="./assets/MongoDB.png" alt="MONGODB-LOGO" height="45" wight="45" />](https://www.mongodb.com/)
 
+## Contact:
+<img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png" align="center"> : [`Code#4038`][Discord]
 
