@@ -2,7 +2,7 @@
 
 ## ***English***
 Hi! My name is Juan Manuel Toro, but you can call me Code :D.
-> I am a beginner developer, developer of various Discord bots like [OmegaNinja](https://discord.com/api/oauth2/authorize?client_id=725772192159105752&permissions=8&scope=bot), [OrixUSH](https://fxz-org.com/orix-mejor-bot-discord/) (Bot from [FxZ Organization](https://fxz-org.com/)) and [Riku](https://discord.com/api/oauth2/authorize?client_id=844630271097045043&permissions=8&scope=bot).
+> I am a beginner developer, developer of various Discord bots like [OmegaNinja](https://discord.com/api/oauth2/authorize?client_id=725772192159105752&permissions=8&scope=bot), [OrixUSH](https://fxz-org.com/orix-mejor-bot-discord/) (Bot from [FxZ Organization](https://fxz-org.com/)) and [Riku](https://discord.com/api/oauth2/authorize?client_id=844630271097045043&permissions=8&scope=bot). :shipit:
 
 ## ***Español***
 Hola! Mi nombre es Juan Manuel Toro, pero me puedes llamar Code :D.
