@@ -1,5 +1,9 @@
 # **My information :)**
-
+![status](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/722531195904196688?simple=true)
+![playing](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/722531195904196688) 
+![vscode](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/722531195904196688)
+[![spotify](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/722531195904196688)]((https://dev.discordprofiles.me/openspotify/722531195904196688))
+![profile views](https://komarev.com/ghpvc/?username=Code126)
 ### ***English***
 Hi! My name is Juan Manuel Toro, but you can call me Code :D, I'm from Colombia, but I speak English almost all the time so it doesn't matter if you speak English or Spanish, I will understand you.
 > I am a beginner developer, developer of various Discord bots like [OmegaNinja](https://discord.com/api/oauth2/authorize?client_id=725772192159105752&permissions=8&scope=bot), [OrixUSH](https://fxz-org.com/orix-mejor-bot-discord/) (Bot from [FxZ Organization](https://fxz-org.com/)) and [Riku](https://discord.com/api/oauth2/authorize?client_id=844630271097045043&permissions=8&scope=bot). :shipit:
@@ -30,4 +34,3 @@ OmegaNinja | Riku
 [Support Server](https://discord.com/invite/uQxTeFV) - [Invite](https://discord.com/api/oauth2/authorize?client_id=725772192159105752&permissions=8&scope=bot)|[Support Server](https://discord.gg/hCpNyrx6Ex) - [Invite](https://discord.com/api/oauth2/authorize?client_id=844630271097045043&permissions=8&scope=bot)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Code126&theme=jolly&show_icons=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code126">
-
