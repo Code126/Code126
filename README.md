@@ -18,7 +18,7 @@ Hola! Mi nombre es Juan Manuel Toro, pero me puedes llamar Code :D Soy de Colomb
 ### Contact:
 <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png" align="center"> : [`Code#4038`] Discord - PFP: <img src="https://images-ext-2.discordapp.net/external/bdLp4fD9B3fWbQ37omRDKOLTDwli9e189Pc4NoE6Eis/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/722531195904196688/a_a17d7d7cdab5609b63aa0075e8c0a6f0.gif?width=60&height=60" align="center">
 #### or
-<img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png"> : [`Code<3#9999`] Discord - PFP: <img src="https://cdn.discordapp.com/avatars/841309669792153641/a_304bac946f2ea1a2c9de91687c22288b.gif" align="center" height="60" wight="60">
+<img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png"> : [`Code<3#0001`] Discord - PFP: <img src="https://cdn.discordapp.com/avatars/841309669792153641/a_304bac946f2ea1a2c9de91687c22288b.gif" align="center" height="60" wight="60">
 <!--------------- Teams ----------------->
 ### Teams:
 [`FxZ-Org`](https://github.com/OrganizacionFxZ)
