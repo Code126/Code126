@@ -16,7 +16,7 @@ Hola! Mi nombre es Juan Manuel Toro, pero me puedes llamar Code :D Soy de Colomb
 [<img src="./assets/MongoDB.png" alt="MONGODB-LOGO" height="45" wight="45" />](https://www.mongodb.com/)
 
 ### Contact:
-<img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png"> : [`Code<3#0001`] Discord - PFP: <img src="https://cdn.discordapp.com/avatars/841309669792153641/a_0c2ceeba180fa18518a9e3bb9644d84f.gif" align="center" height="60" wight="60">
+<img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png"> : [`Code<3#0001`] Discord - PFP: <img src="https://images-ext-2.discordapp.net/external/6M5U6wYEW8w8Ln0JuzF7vmTyb3XTcIwfr0pz99bcdiA/%3Fsize%3D256/https/cdn.discordapp.com/avatars/841309669792153641/41497c80ccd497d7495764f4c43c2c57.png" align="center" height="60" wight="60">
 <!--------------- Teams ----------------->
 ### Teams:
 [`FxZ-Org`](https://github.com/OrganizacionFxZ)
