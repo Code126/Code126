@@ -1,5 +1,6 @@
-#### Code :D ![profile views](https://komarev.com/ghpvc/?username=Code126)
-Follow Notividx on twitter :flushed: [![Twitter Follow](https://img.shields.io/twitter/follow/notividx?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=notividx)
+#### Code :D 
+![profile views](https://komarev.com/ghpvc/?username=Code126)
+
 ### ***English***
 Hi! My name is Juan Manuel Toro, but you can call me Code :D, I'm from Colombia, but I speak English almost all the time so it doesn't matter if you speak English or Spanish, I will understand you.
 > I am a beginner developer, developer of various Discord bots like [OmegaNinja](https://discord.com/api/oauth2/authorize?client_id=725772192159105752&permissions=8&scope=bot), [OrixUSH](https://fxz-org.com/orix-mejor-bot-discord/) (Bot from [FxZ Organization](https://fxz-org.com/)) and [Riku](https://discord.com/api/oauth2/authorize?client_id=844630271097045043&permissions=8&scope=bot). :shipit:
