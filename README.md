@@ -2,11 +2,11 @@
 ![profile views](https://komarev.com/ghpvc/?username=Code126)
 
 ### ***English***
-Hi! My name is Juan Manuel Toro, but you can call me Code :D, I'm from Colombia, but I speak English almost all the time so it doesn't matter if you speak English or Spanish, I will understand you.
-> I am a beginner developer, developer of various Discord bots like [OmegaNinja](https://discord.com/api/oauth2/authorize?client_id=725772192159105752&permissions=8&scope=bot), [OrixUSH](https://fxz-org.com/orix-mejor-bot-discord/) (Bot from [FxZ Organization](https://fxz-org.com/)) and [Riku](https://discord.com/api/oauth2/authorize?client_id=844630271097045043&permissions=8&scope=bot). :shipit:
+Hi! My name Code, I'm from Colombia, but I speak English almost all the time so it doesn't matter if you speak English or Spanish, I will understand you.
+> I am a beginner developer, developer of various Discord bots like [OmegaNinja](https://discord.com/api/oauth2/authorize?client_id=725772192159105752&permissions=8&scope=bot), [OrixUSH](https://fxz-org.com/orix-mejor-bot-discord/) (Bot from [FxZ Organization](https://fxz-org.com/)) and [Riku](https://discord.com/api/oauth2/authorize?client_id=844630271097045043&permissions=8&scope=bot). 
 
 ### ***Español***
-Hola! Mi nombre es Juan Manuel Toro, pero me puedes llamar Code :D Soy de Colombia, pero hablo inglés casi todo el tiempo así que no importa si hablas inglés o español, te entenderé.
+Hola! Mi nombre es Code, Soy de Colombia, pero hablo inglés casi todo el tiempo así que no importa si hablas inglés o español, te entenderé.
 > Soy un desarrollador pincipiante, desarrollador de varios bots de Discord como [OmegaNinja](https://discord.com/api/oauth2/authorize?client_id=725772192159105752&permissions=8&scope=bot), [OrixUSH](https://fxz-org.com/orix-mejor-bot-discord/) (Bot de la [Organización FxZ](https://fxz-org.com/)) y de [Riku](https://discord.com/api/oauth2/authorize?client_id=844630271097045043&permissions=8&scope=bot).
 
 ### Knowledge:
@@ -24,7 +24,7 @@ Hola! Mi nombre es Juan Manuel Toro, pero me puedes llamar Code :D Soy de Colomb
 [`SS-Assistant`](https://github.com/SS-Assistant)
 
 ### Bots:
-OmegaNinja | Riku      |OrixUSH
------------|-----------|-----------
-[Support Server](https://discord.com/invite/uQxTeFV) - [Invite](https://discord.com/api/oauth2/authorize?client_id=725772192159105752&permissions=8&scope=bot)|[Support Server](https://discord.gg/hCpNyrx6Ex) - [Invite](https://discord.com/api/oauth2/authorize?client_id=844630271097045043&permissions=8&scope=bot)|[Support Server](https://discord.gg/dk93wzehF9) - [Invite](https://fxz-org.com/orix-mejor-bot-discord/)
+OmegaNinja | OrixUSH
+-----------|-----------
+[Support Server](https://discord.com/invite/uQxTeFV) - [Invite](https://discord.com/api/oauth2/authorize?client_id=725772192159105752&permissions=8&scope=bot)|[Support Server](https://discord.gg/dk93wzehF9) - [Invite](https://fxz-org.com/orix-mejor-bot-discord/)
 
