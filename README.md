@@ -22,7 +22,7 @@ Hola! Mi nombre es Code, Soy de Colombia, pero hablo inglés casi todo el tiempo
 #### Teams:
 [`FxZ-Org`](https://github.com/OrganizacionFxZ)
 [`SS-Assistant`](https://github.com/SS-Assistant)
-[`Taiki`]()
+[`Taiki`](https://github.com/Taiki-Bot)
 ### Bots:
 OmegaNinja | OrixUSH   |Taiki
 -----------|-----------|-----------
