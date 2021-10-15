@@ -21,7 +21,7 @@ Hi! My name is Code, I'm from Colombia, but I speak English almost all the time 
 [`SS-Assistant`](https://github.com/SS-Assistant)
 [`Taiki`](https://github.com/Taiki-Bot)
 ### Bots:
-OmegaNinja | OrixUSH   |Taiki
------------|-----------|-----------
-[Support Server](https://discord.com/invite/uQxTeFV) - [Invite](https://discord.com/api/oauth2/authorize?client_id=725772192159105752&permissions=8&scope=bot)|[Support Server](https://discord.gg/dk93wzehF9) - [Invite](https://fxz-org.com/orix-mejor-bot-discord/) | [Support Server](https://discord.gg/taiki) - [Invite](https://discord.com/oauth2/authorize?client_id=860344927849152513&permissions=8&scope=bot)
+OrixUSH   |Taiki
+-----------|-----------
+[Support Server](https://discord.gg/dk93wzehF9) - [Invite](https://fxz-org.com/orix-mejor-bot-discord/) | [Support Server](https://discord.gg/taiki) - [Invite](https://discord.com/oauth2/authorize?client_id=860344927849152513&permissions=8&scope=bot)
 
