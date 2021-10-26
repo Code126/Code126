@@ -14,7 +14,7 @@ Hi! My name is Code, I'm from Colombia, but I speak English almost all the time 
 [<img src="./assets/MongoDB.png" alt="MONGODB-LOGO" height="45" wight="45" />](https://www.mongodb.com/)
 
 ### Contact:
-<img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png"> : [`Code<3#7849`] Discord - PFP: <img src="https://images-ext-2.discordapp.net/external/6M5U6wYEW8w8Ln0JuzF7vmTyb3XTcIwfr0pz99bcdiA/%3Fsize%3D256/https/cdn.discordapp.com/avatars/841309669792153641/41497c80ccd497d7495764f4c43c2c57.png" align="center" height="60" wight="60">
+<img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png"> : [`Code<3#7849`] Discord - PFP: <img src="https://images-ext-1.discordapp.net/external/CqCSpkdFN2H21o2E_YFN5eQcs1WJp8p28yNLwwMOU6o/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/841309669792153641/486b8370f9f7529686b1567f32bd7fa9.png" align="center" height="60" wight="60">
 <!--------------- Teams ----------------->
 #### Teams:
 [`FxZ-Org`](https://github.com/OrganizacionFxZ)
