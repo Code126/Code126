@@ -3,7 +3,7 @@
 
 ### ***English***
 Hi! My name is Code, I'm from Colombia, but I speak English almost all the time so it doesn't matter if you speak English or Spanish, I will understand you.
-> I am a beginner developer, developer of various Discord bots like [OmegaNinja](https://discord.com/api/oauth2/authorize?client_id=725772192159105752&permissions=8&scope=bot), [OrixUSH](https://fxz-org.com/orix-mejor-bot-discord/) (Bot from [FxZ Organization](https://fxz-org.com/))
+> I am a full-stack developer, developer of various Discord bots like [OrixUSH](https://fxz-org.com/orix-mejor-bot-discord/) (Bot from [FxZ Organization](https://fxz-org.com/))
 
 
 ### Knowledge:
