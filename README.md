@@ -1,9 +1,9 @@
-#### Code :D 
+#### Code
 ![profile views](https://komarev.com/ghpvc/?username=Code126)
 
-Hi!
+Hi, my name is Juan Toro!
 > I'm from Colombia.
-> Systems engineer student at Universidad Ean. 
+> Systems engineer student at Universidad Ean.
 
 
 ### Knowledge:
