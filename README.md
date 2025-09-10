@@ -8,7 +8,7 @@ Systems engineer student at Universidad Ean.
 
 ### Knowledge:
 
-[<img src="./assets/pythonlogo.png" alt="PYTHON-LOGO" height="45" wight="45" />](https://python.org/)
+[<img src="./assets/pythonlogo" alt="PYTHON-LOGO" height="45" wight="45" />](https://python.org/)
 [<img src="./assets/DLogo.png" alt="DISCORD-LOGO" height="45" wight="45" />](https://discord.com/)
 [<img src="./assets/NodeJS.png" alt="NODEJS-LOGO" height="45" wight="45" />](https://nodejs.org/)
 [<img src="./assets/JavaScript.jpg" alt="JS-LOGO" height="45" wight="45" />](https://www.javascript.com/)
